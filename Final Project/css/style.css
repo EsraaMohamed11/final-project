@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body{
+    font-family: "Lato", sans-serif;;
+}
+.h1-sofabeds{
+color: #1559b6;
+font-size: 37px;
+font-weight: 600;
+}
+.link-sofabeds{
+    text-decoration: none;
+    color:rgb(83, 81, 81);
+    
+}
+.btn-sofabed{
+    background-color: white;
+    border: none;
+    margin-top: 10px;
+   font-weight: 600;
+   font-size: medium;
+   
+}
+.p-sofabeds{
+    line-height: 25px;
+    width: 500px;
+    font-size: large;
+}
+.img-1,.img-2{
+    width: 560px;
+}
+.img-1{
+    margin-top: 100px;
+ 
+}
+/* start CHOSEN WITH CARE */
+.chosen-care{
+    background-image: url(../images/GG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70vh;
+    margin: 0px 15px;
+  
+    
+}
+.text-chosen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #1559b6;
+    flex-direction: column;
+   padding-top: 50vh;
+   line-height: 15px;
+  
+  
+}
+.h1-chosen{
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+.p1-chosen{
+    font-size: medium;
+    font-weight: 600;
+}
+.p2-chosen{
+    text-align: center;
+    margin-top: 15px;
+}
+/* end CHOSEN WITH CARE */
